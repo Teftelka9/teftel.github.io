@@ -11,7 +11,7 @@
 
 html, body, main {
 	height: 100%;
-	font-family: RobotoR;
+	font-family: 19844;
 }
 
 .first {
@@ -20,6 +20,7 @@ html, body, main {
 	background-position: center;
 	-webkit-background-size: cover;
 	background-size: cover;
+	border-bottom: 4px solid orange;
 }
 
 .first p{
@@ -111,6 +112,7 @@ img{
 
 .gallery-p{
 	font-size: 25px;
+    opacity: 0.8;
 }
 
 .last-container{
@@ -123,7 +125,7 @@ img{
 	background-image: url(../IMG/S20.jpg);
 	background-position: center;
 	background-size: cover;
-
+    border-top: 4px solid orange;
 }
 
 .last-header{
